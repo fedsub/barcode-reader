@@ -1,0 +1,4 @@
+#Tue Apr 03 14:50:18 CEST 2018
+base.0=C\:\\Users\\orlan\\Documents\\School\\TLE\\barcode-reader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

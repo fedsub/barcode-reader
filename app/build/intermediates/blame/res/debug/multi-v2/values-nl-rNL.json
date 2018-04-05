@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\orlan\\Documents\\School\\TLE\\barcode-reader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl-rNL\\values-nl-rNL.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\orlan\\Documents\\School\\TLE\\barcode-reader\\app\\src\\main\\res\\values-nl-rNL\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "33",
+                        "endOffsets": "86"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "33",
+                        "endOffsets": "84"
+                    }
+                }
+            ]
+        }
+    ]
+}
